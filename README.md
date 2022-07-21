@@ -2,11 +2,11 @@
 
 _A Computer Engineer student from Polytechnic University of the Philippines_ <br>
 
-[Email](gmail:gabrielle.avellano@gmail.com) / [Website](https/) / [LinkedIn]([https://www.linkedin.com/in/gabrielle-avellano-185042246/]) / [GitHub](https://github.com/avellanogab) / [Youtube](https://www.youtube.com/channel/UCM-HqgGge11zzA4gSpUlLGQ)
+[Email](gabrielle.avellano@gmail.com) / [Website](https/) / [LinkedIn]([https://www.linkedin.com/in/gabrielle-avellano-185042246/]) / [GitHub](https://github.com/avellanogab) / [Youtube](https://www.youtube.com/channel/UCM-HqgGge11zzA4gSpUlLGQ)
 
 ## 👩👩‍💻🏼‍💻 Experience as an Engineering Student 
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
+**Internr** @ [Department of Health](https://doh.gov.ph/) _(July 13 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Implementing features that improve the UI and accessibility of the integrations platform
   - Extending a company-wide design system
