@@ -125,8 +125,7 @@ Non-profit digital school for tech-interested newcomers applying for asylum in G
   
 ## 🏆 Accomplishments
 
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
+**Won First Place** @ 
 
 **Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
 Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
@@ -146,7 +145,7 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 👩🏼‍🎓 Education
 
-**Accountancy, Business, and Management strand** 
+**Accountancy, Business, and Management strand** @
 [Infant Jesus Academy](https://www.ija.edu.ph/) - Marikina Heights, Marikina <br>
-**Diploma in Computer Engineering Technology** 
+**Diploma in Computer Engineering Technology** @
 [Polytechnic University of the Philippines](https://www.pup.edu.ph/) - Sta. Mesa, Manila _(June 2019 - Present)_
