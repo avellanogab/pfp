@@ -8,7 +8,7 @@ _A Computer Engineer student from Polytechnic University of the Philippines_ <br
 
 **Intern** @ [Department of Health](https://doh.gov.ph/) _(July 13 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
-  - Attending clients who has Vacine Certificate requests and concerns
+  - Attending the clients who has Vacine Certificate requests and concerns
   - **_Technologies used:_** HTML & CSS.
 <br><br>
 
